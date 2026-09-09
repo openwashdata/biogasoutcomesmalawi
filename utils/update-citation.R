@@ -4,7 +4,7 @@ library(cffr)
 packageVersion("cffr")
 
 # Hard code doi
-doi <- "10.5281/zenodo.8289621"
+doi <- "10.5281/zenodo.8289620"
 
 # creates CFF with all author roles
 mod_cff <- cff_create("DESCRIPTION",
