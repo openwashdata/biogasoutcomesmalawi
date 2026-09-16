@@ -5,7 +5,7 @@
 \alias{biogasoutcomesmalawi}
 \title{Qualitative interviews about the outcomes of biogas reactors in Malawi}
 \format{
-A tibble with 259 rows and 5 variables:
+A tibble with 5963 rows and 5 variables:
 \describe{
 \item{interview_id}{ The site id where the interview was performed.}
 \item{interview_date}{ The date on which the interview was performed.}

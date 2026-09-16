@@ -5,7 +5,7 @@
 #' multiple visits to sites over the course of a two-year period between
 #' June 2021 and October 2022.
 #'
-#' @format A tibble with 259 rows and 5 variables:
+#' @format A tibble with 5963 rows and 5 variables:
 #' \describe{
 #'   \item{interview_id}{ The site id where the interview was performed.}
 #'   \item{interview_date}{ The date on which the interview was performed.}

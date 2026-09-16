@@ -25,7 +25,7 @@
 vignettes/*.html
 vignettes/*.pdf
 
-*.bk1
+*.bk*
 
 # OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
 .httr-oauth
@@ -41,9 +41,6 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# pkgdown site
-# docs/
-
 # translation temp files
 po/*~
 
@@ -55,3 +52,5 @@ rsconnect/
 .DS_Store
 .Rproj.user
 
+# pkgdown site, built and deployed by .github/workflows/pkgdown.yaml
+docs/

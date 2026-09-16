@@ -5,7 +5,7 @@
 
 <!-- badges: start -->
 
-[![R-CMD-check](https://github.com/Global-Health-Engineering/biogasoutcomes/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Global-Health-Engineering/biogasoutcomes/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/openwashdata/biogasoutcomesmalawi/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/openwashdata/biogasoutcomesmalawi/actions/workflows/R-CMD-check.yaml)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8289620.svg)](https://doi.org/10.5281/zenodo.8289620)
 [![License: CC BY
 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -31,8 +31,8 @@ devtools::install_github("openwashdata/biogasoutcomesmalawi")
 Alternatively, you can download the individual datasets as a CSV or XLSX
 file from the table below.
 
-| dataset              | CSV                                                                                                                 | XLSX                                                                                                                  |
-|:---------------------|:--------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|
+| dataset | CSV | XLSX |
+|:---|:---|:---|
 | biogasoutcomesmalawi | [Download CSV](https://github.com/openwashdata/biogasoutcomesmalawi/raw/main/inst/extdata/biogasoutcomesmalawi.csv) | [Download XLSX](https://github.com/openwashdata/biogasoutcomesmalawi/raw/main/inst/extdata/biogasoutcomesmalawi.xlsx) |
 
 The original transcripts in .docx file format and converted to .md
@@ -86,7 +86,7 @@ Kalina, M., Ogwang, J.O., Kwangulero, J., and E. Tilley (2023)
 Uncovering biogas outcomes: tales of hubris, hope, and failure from
 southern Malawi. Natural Resources Forum.
 
-This data was used in Kalina, Ogwang, and Tilley (2022):
+This data was used in Kalina et al. (2022):
 
 <div id="refs" class="references csl-bib-body hanging-indent">
 
@@ -181,16 +181,16 @@ Please cite using:
 citation("biogasoutcomesmalawi")
 #> To cite package 'biogasoutcomesmalawi' in publications use:
 #> 
-#>   Schöbitz L, Kalina M, Ogwang J, Kwangulero J, Tilley E (2023).
-#>   "biogasoutcomesmalawi: Data for 61 semi-structured interviews with
-#>   biogas owners in Malawi." doi:10.5281/zenodo.8289620
+#>   Schöbitz L, Loos S, Kalina M, Ogwang J, Kwangulero J, Tilley E
+#>   (2023). "biogasoutcomesmalawi: Data for 61 semi-structured interviews
+#>   with biogas owners in Malawi." doi:10.5281/zenodo.8289620
 #>   <https://doi.org/10.5281/zenodo.8289620>.
 #> 
 #> A BibTeX entry for LaTeX users is
 #> 
-#>   @Misc{schobitzkalina,
+#>   @Misc{schobitzloos,
 #>     title = {biogasoutcomesmalawi: Data for 61 semi-structured interviews with biogas owners in Malawi},
-#>     author = {Lars Schöbitz and Marc Kalina and Jonathan Olal Ogwang and Jonathan Kwangulero and Elizabeth Tilley},
+#>     author = {Lars Schöbitz and Sebastian Camilo Loos and Marc Kalina and Jonathan Olal Ogwang and Jonathan Kwangulero and Elizabeth Tilley},
 #>     year = {2023},
 #>     doi = {10.5281/zenodo.8289620},
 #>     abstract = {This dataset consists of 61 semi-structured interviews with biogas owners in the Southern Region of Malawi. Interviews were conducted over multiple visits to sites over the course of a two-year period between June 2021 and October 2022.},
