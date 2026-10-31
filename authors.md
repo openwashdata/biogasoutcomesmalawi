@@ -21,6 +21,9 @@
 
 ## Citation
 
+Source:
+[`inst/CITATION`](https://github.com/openwashdata/biogasoutcomesmalawi/blob/main/inst/CITATION)
+
 Schöbitz L, Loos S, Kalina M, Ogwang J, Kwangulero J, Tilley E (2023).
 “biogasoutcomesmalawi: Data for 61 semi-structured interviews with
 biogas owners in Malawi.”
