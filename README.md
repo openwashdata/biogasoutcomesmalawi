@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# biogasoutcomesmalawi
+# biogasoutcomesmalawi <a href="https://openwashdata.org"><img src="man/figures/logo.png" align="right" width="120" alt="openwashdata" /></a>
 
 <!-- badges: start -->
 
@@ -11,8 +11,6 @@
 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 <!-- badges: end -->
-
-A data package published by [openwashdata](https://openwashdata.org).
 
 The goal of biogasoutcomesmalawi is to provide a qualitative dataset in
 a table format. The dataset consists of 61 semi-structured interviews
@@ -176,6 +174,8 @@ Data are available as
 [CC-BY](https://github.com/openwashdata/biogasoutcomesmalawi/blob/main/LICENSE.md).
 
 ## Citation
+
+Published by openwashdata, <https://openwashdata.org>.
 
 Please cite using:
 

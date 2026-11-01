@@ -11,3 +11,5 @@ biogasoutcomesmalawi.Rproj
 ^docs$
 ^pkgdown$
 references.bib
+^_brand\.yml$
+^logos$
