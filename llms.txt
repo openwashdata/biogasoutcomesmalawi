@@ -1,7 +1,5 @@
 # biogasoutcomesmalawi
 
-A data package published by [openwashdata](https://openwashdata.org).
-
 The goal of biogasoutcomesmalawi is to provide a qualitative dataset in
 a table format. The dataset consists of 61 semi-structured interviews
 with biogas owners in the Southern Region of Malawi. Interviews were
@@ -157,6 +155,8 @@ Data are available as
 [CC-BY](https://github.com/openwashdata/biogasoutcomesmalawi/blob/main/LICENSE.md).
 
 ## Citation
+
+Published by openwashdata, <https://openwashdata.org>.
 
 Please cite using:
 
